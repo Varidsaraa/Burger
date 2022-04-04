@@ -1,2 +1,2 @@
 # Burger
-It was the lesson from Codeacdemy 
+It was the lesson from Codeacdemy that created with HTML.
